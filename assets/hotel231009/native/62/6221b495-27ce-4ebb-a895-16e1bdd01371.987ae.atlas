@@ -1,0 +1,83 @@
+
+lvguandatie.png
+size: 225,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 108, 106
+  size: 57, 75
+  orig: 59, 77
+  offset: 1, 1
+  index: -1
+shuzhuang1
+  rotate: true
+  xy: 2, 662
+  size: 322, 209
+  orig: 324, 211
+  offset: 1, 1
+  index: -1
+shuzhuang2
+  rotate: true
+  xy: 2, 338
+  size: 322, 209
+  orig: 324, 211
+  offset: 1, 1
+  index: -1
+yanwu1
+  rotate: false
+  xy: 2, 183
+  size: 180, 153
+  orig: 192, 157
+  offset: 1, 2
+  index: -1
+yanwu2
+  rotate: false
+  xy: 2, 77
+  size: 104, 104
+  orig: 106, 107
+  offset: 1, 1
+  index: -1
+zhangshen1
+  rotate: false
+  xy: 167, 63
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: -1
+zhangshen2
+  rotate: false
+  xy: 184, 155
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+zhangshen3
+  rotate: false
+  xy: 184, 246
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+zhangtou1
+  rotate: false
+  xy: 2, 5
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+zhangtou2
+  rotate: true
+  xy: 63, 16
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+zhangtou3
+  rotate: true
+  xy: 135, 2
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1

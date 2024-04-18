@@ -1,0 +1,83 @@
+
+yugang.png
+size: 1330,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditan
+  rotate: false
+  xy: 2, 2
+  size: 764, 312
+  orig: 766, 315
+  offset: 1, 1
+  index: -1
+haimian
+  rotate: false
+  xy: 768, 56
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1
+hudiejie
+  rotate: true
+  xy: 768, 153
+  size: 202, 332
+  orig: 202, 343
+  offset: 0, 11
+  index: -1
+paopao1
+  rotate: false
+  xy: 865, 84
+  size: 68, 67
+  orig: 71, 69
+  offset: 2, 1
+  index: -1
+paopao2
+  rotate: false
+  xy: 768, 9
+  size: 46, 45
+  orig: 49, 47
+  offset: 2, 1
+  index: -1
+paopao3
+  rotate: true
+  xy: 935, 83
+  size: 68, 67
+  orig: 71, 70
+  offset: 2, 2
+  index: -1
+paopao4
+  rotate: true
+  xy: 816, 9
+  size: 45, 44
+  orig: 48, 46
+  offset: 2, 1
+  index: -1
+paopao5
+  rotate: true
+  xy: 865, 29
+  size: 53, 51
+  orig: 55, 53
+  offset: 1, 1
+  index: -1
+pengtou
+  rotate: false
+  xy: 1102, 21
+  size: 191, 334
+  orig: 193, 336
+  offset: 1, 1
+  index: -1
+sha
+  rotate: true
+  xy: 677, 357
+  size: 279, 651
+  orig: 279, 651
+  offset: 0, 0
+  index: -1
+yugangqian
+  rotate: false
+  xy: 2, 316
+  size: 673, 320
+  orig: 675, 322
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+baojian.png
+size: 1897,849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 2, 339
+  size: 684, 508
+  orig: 686, 511
+  offset: 1, 2
+  index: -1
+sha1
+  rotate: false
+  xy: 1602, 207
+  size: 293, 640
+  orig: 293, 640
+  offset: 0, 0
+  index: -1
+sha2
+  rotate: false
+  xy: 1306, 203
+  size: 294, 644
+  orig: 294, 644
+  offset: 0, 0
+  index: -1
+shiwu
+  rotate: false
+  xy: 1189, 238
+  size: 85, 111
+  orig: 87, 113
+  offset: 1, 1
+  index: -1
+xingxing1
+  rotate: true
+  xy: 2, 40
+  size: 297, 512
+  orig: 304, 520
+  offset: 2, 4
+  index: -1
+xingxing2
+  rotate: true
+  xy: 688, 2
+  size: 347, 499
+  orig: 353, 512
+  offset: 3, 11
+  index: -1
+xingxingdeng
+  rotate: false
+  xy: 688, 351
+  size: 616, 496
+  orig: 616, 546
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 1189, 5
+  size: 365, 196
+  orig: 367, 202
+  offset: 1, 2
+  index: -1
+yun2
+  rotate: false
+  xy: 1602, 61
+  size: 272, 144
+  orig: 274, 148
+  offset: 1, 2
+  index: -1
+zhuozi
+  rotate: true
+  xy: 516, 37
+  size: 300, 170
+  orig: 302, 173
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,55 @@
+
+shirenhua.png
+size: 1008,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gen
+  rotate: true
+  xy: 2, 2
+  size: 540, 504
+  orig: 540, 504
+  offset: 0, 0
+  index: -1
+pen
+  rotate: true
+  xy: 832, 79
+  size: 204, 174
+  orig: 206, 177
+  offset: 1, 1
+  index: -1
+penhou
+  rotate: false
+  xy: 832, 12
+  size: 158, 65
+  orig: 161, 67
+  offset: 2, 1
+  index: -1
+qianpian
+  rotate: true
+  xy: 870, 285
+  size: 257, 127
+  orig: 257, 127
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 508, 289
+  size: 360, 253
+  orig: 360, 253
+  offset: 0, 0
+  index: -1
+tengwan
+  rotate: false
+  xy: 508, 8
+  size: 197, 279
+  orig: 197, 279
+  offset: 0, 0
+  index: -1
+zuihou
+  rotate: true
+  xy: 707, 37
+  size: 250, 123
+  orig: 250, 123
+  offset: 0, 0
+  index: -1

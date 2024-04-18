@@ -1,0 +1,55 @@
+
+huati.png
+size: 1277,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 755, 3
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+q2
+  rotate: false
+  xy: 704, 2
+  size: 49, 49
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+q3
+  rotate: false
+  xy: 805, 3
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+q4
+  rotate: false
+  xy: 855, 3
+  size: 48, 48
+  orig: 52, 50
+  offset: 3, 1
+  index: -1
+q5
+  rotate: false
+  xy: 905, 3
+  size: 46, 48
+  orig: 48, 51
+  offset: 1, 1
+  index: -1
+q6
+  rotate: false
+  xy: 704, 53
+  size: 571, 356
+  orig: 573, 358
+  offset: 1, 1
+  index: -1
+q7
+  rotate: false
+  xy: 2, 5
+  size: 700, 404
+  orig: 702, 406
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,174 @@
+
+tangguoji.png
+size: 1621,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding
+  rotate: true
+  xy: 358, 22
+  size: 188, 234
+  orig: 190, 236
+  offset: 1, 1
+  index: -1
+ding2
+  rotate: true
+  xy: 1459, 532
+  size: 253, 137
+  orig: 255, 139
+  offset: 1, 1
+  index: -1
+dizuo
+  rotate: true
+  xy: 1011, 284
+  size: 501, 321
+  orig: 503, 323
+  offset: 1, 1
+  index: -1
+dizuo2
+  rotate: false
+  xy: 2, 2
+  size: 354, 208
+  orig: 357, 211
+  offset: 2, 1
+  index: -1
+houbu
+  rotate: false
+  xy: 2, 212
+  size: 548, 573
+  orig: 560, 619
+  offset: 9, 44
+  index: -1
+out1
+  rotate: false
+  xy: 1459, 23
+  size: 64, 62
+  orig: 66, 65
+  offset: 1, 2
+  index: -1
+out2
+  rotate: false
+  xy: 1540, 32
+  size: 67, 64
+  orig: 69, 66
+  offset: 1, 1
+  index: -1
+out3
+  rotate: true
+  xy: 1540, 98
+  size: 67, 68
+  orig: 69, 70
+  offset: 1, 1
+  index: -1
+out4
+  rotate: true
+  xy: 552, 213
+  size: 65, 49
+  orig: 67, 51
+  offset: 1, 1
+  index: -1
+rongqi
+  rotate: true
+  xy: 552, 280
+  size: 505, 457
+  orig: 509, 493
+  offset: 3, 10
+  index: -1
+sha1
+  rotate: true
+  xy: 603, 2
+  size: 276, 426
+  orig: 276, 426
+  offset: 0, 0
+  index: -1
+sha2
+  rotate: true
+  xy: 1031, 6
+  size: 276, 426
+  orig: 276, 426
+  offset: 0, 0
+  index: -1
+shoubing
+  rotate: false
+  xy: 1514, 247
+  size: 84, 68
+  orig: 86, 70
+  offset: 1, 1
+  index: -1
+tang1
+  rotate: false
+  xy: 1459, 167
+  size: 79, 78
+  orig: 81, 80
+  offset: 1, 1
+  index: -1
+tang10
+  rotate: false
+  xy: 1334, 325
+  size: 96, 80
+  orig: 98, 83
+  offset: 1, 2
+  index: -1
+tang2
+  rotate: true
+  xy: 1432, 313
+  size: 84, 80
+  orig: 87, 83
+  offset: 1, 1
+  index: -1
+tang3
+  rotate: true
+  xy: 1334, 489
+  size: 97, 98
+  orig: 102, 101
+  offset: 4, 1
+  index: -1
+tang4
+  rotate: false
+  xy: 1334, 407
+  size: 97, 80
+  orig: 99, 83
+  offset: 1, 2
+  index: -1
+tang5
+  rotate: false
+  xy: 1540, 167
+  size: 79, 78
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+tang6
+  rotate: false
+  xy: 1459, 87
+  size: 79, 78
+  orig: 81, 80
+  offset: 1, 1
+  index: -1
+tang7
+  rotate: false
+  xy: 1334, 685
+  size: 107, 100
+  orig: 109, 102
+  offset: 1, 1
+  index: -1
+tang8
+  rotate: false
+  xy: 1514, 317
+  size: 84, 80
+  orig: 86, 82
+  offset: 1, 1
+  index: -1
+tang9
+  rotate: true
+  xy: 1334, 588
+  size: 95, 104
+  orig: 99, 106
+  offset: 3, 1
+  index: -1
+yanshen
+  rotate: true
+  xy: 1434, 399
+  size: 131, 172
+  orig: 135, 174
+  offset: 2, 1
+  index: -1

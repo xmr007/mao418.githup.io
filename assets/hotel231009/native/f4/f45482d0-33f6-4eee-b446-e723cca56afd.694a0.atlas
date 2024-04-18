@@ -1,0 +1,76 @@
+
+lvguanguo.png
+size: 1254,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi1
+  rotate: false
+  xy: 1186, 180
+  size: 66, 67
+  orig: 68, 70
+  offset: 1, 2
+  index: -1
+baoshi2
+  rotate: true
+  xy: 1186, 61
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1
+baoshi3
+  rotate: false
+  xy: 1186, 115
+  size: 50, 63
+  orig: 52, 65
+  offset: 1, 1
+  index: -1
+chufahou
+  rotate: false
+  xy: 996, 139
+  size: 188, 108
+  orig: 190, 110
+  offset: 1, 1
+  index: -1
+chufaqian
+  rotate: false
+  xy: 725, 20
+  size: 269, 227
+  orig: 271, 231
+  offset: 1, 3
+  index: -1
+chushihou
+  rotate: false
+  xy: 996, 29
+  size: 188, 108
+  orig: 190, 110
+  offset: 1, 1
+  index: -1
+chushiqian
+  rotate: false
+  xy: 454, 18
+  size: 269, 229
+  orig: 271, 231
+  offset: 1, 1
+  index: -1
+ditan
+  rotate: false
+  xy: 2, 2
+  size: 450, 245
+  orig: 453, 247
+  offset: 1, 1
+  index: -1
+qipao1
+  rotate: false
+  xy: 1186, 36
+  size: 28, 23
+  orig: 30, 25
+  offset: 1, 1
+  index: -1
+qipao2
+  rotate: true
+  xy: 1216, 40
+  size: 19, 18
+  orig: 22, 20
+  offset: 2, 1
+  index: -1

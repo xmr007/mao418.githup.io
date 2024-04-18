@@ -1,0 +1,69 @@
+
+mofatengwan.png
+size: 797,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nitu
+  rotate: false
+  xy: 2, 2
+  size: 353, 152
+  orig: 355, 154
+  offset: 1, 1
+  index: -1
+pen
+  rotate: false
+  xy: 2, 156
+  size: 306, 411
+  orig: 308, 459
+  offset: 1, 1
+  index: -1
+wanju1
+  rotate: false
+  xy: 638, 96
+  size: 99, 99
+  orig: 101, 101
+  offset: 1, 1
+  index: -1
+wanju2
+  rotate: false
+  xy: 357, 47
+  size: 180, 196
+  orig: 208, 210
+  offset: 14, 13
+  index: -1
+wanju3
+  rotate: false
+  xy: 539, 12
+  size: 97, 183
+  orig: 100, 185
+  offset: 1, 1
+  index: -1
+zhiwu1
+  rotate: false
+  xy: 506, 278
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+zhiwu2
+  rotate: true
+  xy: 607, 197
+  size: 181, 187
+  orig: 183, 189
+  offset: 1, 1
+  index: -1
+zhiwu3
+  rotate: false
+  xy: 506, 380
+  size: 289, 187
+  orig: 291, 189
+  offset: 1, 1
+  index: -1
+zhiwu4
+  rotate: true
+  xy: 310, 245
+  size: 322, 194
+  orig: 324, 197
+  offset: 1, 1
+  index: -1

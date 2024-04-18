@@ -1,0 +1,62 @@
+
+xiaojingling.png
+size: 1840,1445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingling1
+  rotate: true
+  xy: 1680, 1325
+  size: 118, 119
+  orig: 131, 132
+  offset: 6, 6
+  index: -1
+jingling2
+  rotate: true
+  xy: 1680, 1205
+  size: 118, 119
+  orig: 131, 132
+  offset: 6, 6
+  index: -1
+jingling3
+  rotate: true
+  xy: 1680, 1085
+  size: 118, 119
+  orig: 131, 132
+  offset: 6, 6
+  index: -1
+nangua
+  rotate: true
+  xy: 1567, 9
+  size: 306, 271
+  orig: 310, 276
+  offset: 1, 2
+  index: -1
+pingshen
+  rotate: true
+  xy: 894, 317
+  size: 1126, 784
+  orig: 1134, 787
+  offset: 3, 1
+  index: -1
+saizi
+  rotate: true
+  xy: 1178, 2
+  size: 313, 387
+  orig: 317, 389
+  offset: 2, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 35
+  size: 1174, 238
+  orig: 1188, 240
+  offset: 12, 1
+  index: -1
+zhuangshi
+  rotate: true
+  xy: 2, 275
+  size: 1168, 890
+  orig: 1170, 901
+  offset: 1, 10
+  index: -1

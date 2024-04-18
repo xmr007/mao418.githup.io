@@ -1,0 +1,62 @@
+
+yumaochuang.png
+size: 1587,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: false
+  xy: 1130, 304
+  size: 427, 354
+  orig: 427, 354
+  offset: 0, 0
+  index: -1
+chuang
+  rotate: false
+  xy: 2, 2
+  size: 745, 656
+  orig: 751, 658
+  offset: 5, 1
+  index: -1
+diaozhui
+  rotate: true
+  xy: 1365, 209
+  size: 93, 220
+  orig: 93, 220
+  offset: 0, 0
+  index: -1
+guazhui
+  rotate: false
+  xy: 894, 14
+  size: 234, 146
+  orig: 236, 151
+  offset: 1, 4
+  index: -1
+hudiejie
+  rotate: false
+  xy: 894, 162
+  size: 234, 496
+  orig: 234, 511
+  offset: 0, 15
+  index: -1
+miantuan
+  rotate: true
+  xy: 1365, 2
+  size: 205, 194
+  orig: 207, 196
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 749, 48
+  size: 610, 143
+  orig: 612, 145
+  offset: 1, 1
+  index: -1
+zhenzhu
+  rotate: false
+  xy: 1130, 15
+  size: 233, 287
+  orig: 236, 290
+  offset: 1, 2
+  index: -1

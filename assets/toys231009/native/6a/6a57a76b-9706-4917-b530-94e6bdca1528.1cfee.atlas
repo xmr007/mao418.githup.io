@@ -1,0 +1,146 @@
+
+anmo.png
+size: 347,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizui2
+  rotate: true
+  xy: 328, 353
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+chushibiaoqing2
+  rotate: false
+  xy: 210, 56
+  size: 90, 34
+  orig: 92, 36
+  offset: 1, 1
+  index: -1
+dengzi2
+  rotate: false
+  xy: 2, 145
+  size: 226, 154
+  orig: 232, 156
+  offset: 4, 1
+  index: -1
+kaixinyan2
+  rotate: true
+  xy: 315, 387
+  size: 119, 27
+  orig: 122, 29
+  offset: 2, 1
+  index: -1
+kaixinzui2
+  rotate: false
+  xy: 154, 12
+  size: 32, 28
+  orig: 34, 30
+  offset: 1, 1
+  index: -1
+shengqiyan2
+  rotate: true
+  xy: 155, 42
+  size: 101, 53
+  orig: 106, 56
+  offset: 1, 1
+  index: -1
+shengqizui2
+  rotate: true
+  xy: 197, 309
+  size: 18, 21
+  orig: 20, 23
+  offset: 1, 1
+  index: -1
+shenzi2
+  rotate: true
+  xy: 230, 92
+  size: 101, 91
+  orig: 101, 109
+  offset: 0, 18
+  index: -1
+tou2
+  rotate: false
+  xy: 2, 301
+  size: 193, 205
+  orig: 198, 208
+  offset: 3, 1
+  index: -1
+toushi2
+  rotate: false
+  xy: 230, 195
+  size: 115, 132
+  orig: 117, 135
+  offset: 1, 2
+  index: -1
+weiba2
+  rotate: false
+  xy: 197, 389
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 2, 56
+  size: 151, 87
+  orig: 151, 87
+  offset: 0, 0
+  index: -1
+yingzi2
+  rotate: false
+  xy: 2, 4
+  size: 114, 50
+  orig: 116, 52
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: false
+  xy: 271, 332
+  size: 55, 53
+  orig: 57, 55
+  offset: 1, 1
+  index: -1
+youtui2
+  rotate: true
+  xy: 197, 329
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+youxiuzi2
+  rotate: false
+  xy: 210, 3
+  size: 53, 51
+  orig: 55, 54
+  offset: 1, 2
+  index: -1
+zhangzui2
+  rotate: true
+  xy: 328, 369
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 118, 10
+  size: 44, 34
+  orig: 46, 36
+  offset: 1, 1
+  index: -1
+zuotui2
+  rotate: true
+  xy: 265, 2
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+zuoxiuzi2
+  rotate: false
+  xy: 302, 52
+  size: 37, 38
+  orig: 39, 41
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,27 @@
+
+daoju.png
+size: 841,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 25
+  size: 360, 209
+  orig: 411, 241
+  offset: 26, 13
+  index: -1
+guangshu
+  rotate: true
+  xy: 364, 2
+  size: 232, 333
+  orig: 238, 372
+  offset: 4, 8
+  index: -1
+xingxing
+  rotate: false
+  xy: 699, 84
+  size: 140, 150
+  orig: 148, 158
+  offset: 4, 4
+  index: -1

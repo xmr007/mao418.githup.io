@@ -1,0 +1,55 @@
+
+lvguanmianbao.png
+size: 518,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianbao1
+  rotate: true
+  xy: 455, 4
+  size: 67, 60
+  orig: 69, 62
+  offset: 1, 1
+  index: -1
+mianbao2
+  rotate: true
+  xy: 455, 73
+  size: 68, 61
+  orig: 70, 63
+  offset: 1, 1
+  index: -1
+panzi1
+  rotate: true
+  xy: 455, 357
+  size: 105, 53
+  orig: 107, 56
+  offset: 1, 1
+  index: -1
+panzi2
+  rotate: true
+  xy: 455, 357
+  size: 105, 53
+  orig: 107, 56
+  offset: 1, 1
+  index: -1
+yingzi1
+  rotate: true
+  xy: 455, 250
+  size: 105, 53
+  orig: 107, 56
+  offset: 1, 1
+  index: -1
+yingzi2
+  rotate: true
+  xy: 455, 143
+  size: 105, 53
+  orig: 107, 56
+  offset: 1, 1
+  index: -1
+zhuozi
+  rotate: true
+  xy: 2, 2
+  size: 460, 451
+  orig: 463, 453
+  offset: 1, 1
+  index: -1

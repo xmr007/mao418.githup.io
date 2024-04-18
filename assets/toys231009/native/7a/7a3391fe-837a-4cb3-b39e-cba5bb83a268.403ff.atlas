@@ -1,0 +1,132 @@
+
+wawaji.png
+size: 1194,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: true
+  xy: 819, 13
+  size: 82, 62
+  orig: 84, 65
+  offset: 1, 1
+  index: -1
+beijingwawa
+  rotate: true
+  xy: 512, 32
+  size: 357, 206
+  orig: 372, 210
+  offset: 13, 1
+  index: -1
+bolimen
+  rotate: false
+  xy: 1073, 579
+  size: 110, 110
+  orig: 112, 112
+  offset: 1, 1
+  index: -1
+chukouhou
+  rotate: false
+  xy: 720, 97
+  size: 175, 244
+  orig: 178, 246
+  offset: 1, 1
+  index: -1
+chukoukuan
+  rotate: false
+  xy: 1031, 183
+  size: 159, 158
+  orig: 162, 160
+  offset: 1, 1
+  index: -1
+deng
+  rotate: true
+  xy: 494, 405
+  size: 647, 577
+  orig: 649, 579
+  offset: 1, 1
+  index: -1
+dizuo
+  rotate: true
+  xy: 897, 100
+  size: 241, 132
+  orig: 243, 135
+  offset: 1, 2
+  index: -1
+jishen
+  rotate: false
+  xy: 2, 371
+  size: 490, 681
+  orig: 492, 687
+  offset: 1, 5
+  index: -1
+jishenhou
+  rotate: true
+  xy: 2, 2
+  size: 367, 508
+  orig: 369, 511
+  offset: 1, 1
+  index: -1
+wawa1
+  rotate: true
+  xy: 1073, 828
+  size: 103, 111
+  orig: 105, 114
+  offset: 1, 1
+  index: -1
+wawa2
+  rotate: false
+  xy: 1073, 933
+  size: 119, 119
+  orig: 121, 121
+  offset: 1, 1
+  index: -1
+wawa3
+  rotate: true
+  xy: 1073, 691
+  size: 135, 110
+  orig: 152, 130
+  offset: 13, 15
+  index: -1
+xian
+  rotate: true
+  xy: 494, 391
+  size: 12, 207
+  orig: 14, 209
+  offset: 1, 1
+  index: -1
+yaogan
+  rotate: false
+  xy: 1073, 414
+  size: 103, 163
+  orig: 106, 165
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 720, 343
+  size: 470, 60
+  orig: 475, 63
+  offset: 3, 2
+  index: -1
+zhua1
+  rotate: false
+  xy: 883, 21
+  size: 42, 74
+  orig: 44, 76
+  offset: 1, 1
+  index: -1
+zhua2
+  rotate: false
+  xy: 927, 25
+  size: 40, 73
+  orig: 43, 75
+  offset: 1, 1
+  index: -1
+zhua3
+  rotate: false
+  xy: 720, 7
+  size: 97, 88
+  orig: 99, 91
+  offset: 1, 1
+  index: -1

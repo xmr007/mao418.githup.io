@@ -1,0 +1,188 @@
+
+lvguanchuang.png
+size: 1961,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaiqihou1-1
+  rotate: false
+  xy: 833, 28
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqihou1-2
+  rotate: false
+  xy: 833, 530
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+kaiqihou2-1
+  rotate: false
+  xy: 1115, 28
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqihou2-2
+  rotate: false
+  xy: 833, 190
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+kaiqihou3-1
+  rotate: false
+  xy: 1397, 28
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqihou3-2
+  rotate: false
+  xy: 1115, 530
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+kaiqiqian1-1
+  rotate: false
+  xy: 1679, 6
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqiqian2-1
+  rotate: false
+  xy: 1679, 6
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqiqian3-1
+  rotate: false
+  xy: 1679, 6
+  size: 280, 160
+  orig: 282, 163
+  offset: 1, 2
+  index: -1
+kaiqiqian1-2
+  rotate: false
+  xy: 1115, 190
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+kaiqiqian2-2
+  rotate: false
+  xy: 1397, 530
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+kaiqiqian3-2
+  rotate: false
+  xy: 1397, 190
+  size: 280, 338
+  orig: 282, 340
+  offset: 1, 1
+  index: -1
+qipao1
+  rotate: false
+  xy: 785, 64
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+qipao2
+  rotate: false
+  xy: 785, 98
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+yeti1-1
+  rotate: false
+  xy: 2, 2
+  size: 259, 142
+  orig: 259, 142
+  offset: 0, 0
+  index: -1
+yeti1-2
+  rotate: false
+  xy: 1679, 636
+  size: 275, 232
+  orig: 275, 232
+  offset: 0, 0
+  index: -1
+yeti1-3
+  rotate: false
+  xy: 2, 508
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1
+yeti1-4
+  rotate: false
+  xy: 2, 146
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1
+yeti2-1
+  rotate: false
+  xy: 263, 2
+  size: 259, 142
+  orig: 259, 142
+  offset: 0, 0
+  index: -1
+yeti2-2
+  rotate: false
+  xy: 1679, 402
+  size: 275, 232
+  orig: 275, 232
+  offset: 0, 0
+  index: -1
+yeti2-3
+  rotate: false
+  xy: 279, 508
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1
+yeti2-4
+  rotate: false
+  xy: 556, 508
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1
+yeti3-1
+  rotate: false
+  xy: 524, 2
+  size: 259, 142
+  orig: 259, 142
+  offset: 0, 0
+  index: -1
+yeti3-2
+  rotate: false
+  xy: 1679, 168
+  size: 275, 232
+  orig: 275, 232
+  offset: 0, 0
+  index: -1
+yeti3-3
+  rotate: false
+  xy: 279, 146
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1
+yeti3-4
+  rotate: false
+  xy: 556, 146
+  size: 275, 360
+  orig: 275, 360
+  offset: 0, 0
+  index: -1

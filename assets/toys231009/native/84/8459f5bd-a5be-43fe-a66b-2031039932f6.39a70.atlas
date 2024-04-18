@@ -1,0 +1,139 @@
+
+fanmaiji.png
+size: 1730,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniuoff
+  rotate: false
+  xy: 1308, 709
+  size: 62, 114
+  orig: 65, 116
+  offset: 2, 1
+  index: -1
+anniuon
+  rotate: false
+  xy: 1411, 237
+  size: 62, 114
+  orig: 65, 116
+  offset: 2, 1
+  index: -1
+boli
+  rotate: true
+  xy: 2, 2
+  size: 262, 372
+  orig: 265, 376
+  offset: 1, 2
+  index: -1
+chukouboli
+  rotate: true
+  xy: 376, 17
+  size: 247, 130
+  orig: 249, 132
+  offset: 1, 1
+  index: -1
+chukouqian
+  rotate: true
+  xy: 1411, 693
+  size: 356, 287
+  orig: 358, 292
+  offset: 1, 4
+  index: -1
+deng
+  rotate: false
+  xy: 776, 22
+  size: 633, 367
+  orig: 640, 383
+  offset: 3, 14
+  index: -1
+guang
+  rotate: true
+  xy: 589, 391
+  size: 658, 611
+  orig: 672, 627
+  offset: 11, 3
+  index: -1
+jishen
+  rotate: false
+  xy: 2, 266
+  size: 585, 783
+  orig: 588, 792
+  offset: 1, 8
+  index: -1
+maozhua
+  rotate: true
+  xy: 508, 22
+  size: 242, 215
+  orig: 244, 219
+  offset: 1, 2
+  index: -1
+shjyl1
+  rotate: true
+  xy: 1613, 44
+  size: 106, 115
+  orig: 108, 133
+  offset: 1, 17
+  index: -1
+shjyl2
+  rotate: true
+  xy: 1508, 32
+  size: 118, 103
+  orig: 120, 107
+  offset: 1, 2
+  index: -1
+shjyl3
+  rotate: false
+  xy: 1202, 702
+  size: 104, 121
+  orig: 106, 123
+  offset: 1, 1
+  index: -1
+shjylnz1
+  rotate: false
+  xy: 688, 267
+  size: 86, 122
+  orig: 89, 124
+  offset: 1, 1
+  index: -1
+shjylnz2
+  rotate: false
+  xy: 589, 266
+  size: 97, 123
+  orig: 99, 125
+  offset: 1, 1
+  index: -1
+shjylnz3
+  rotate: false
+  xy: 1411, 10
+  size: 95, 140
+  orig: 118, 143
+  offset: 1, 1
+  index: -1
+texiao1
+  rotate: true
+  xy: 1202, 408
+  size: 283, 279
+  orig: 297, 290
+  offset: 7, 6
+  index: -1
+texiao2
+  rotate: false
+  xy: 1202, 825
+  size: 201, 224
+  orig: 204, 228
+  offset: 2, 2
+  index: -1
+yingbikou
+  rotate: true
+  xy: 1411, 353
+  size: 53, 68
+  orig: 55, 70
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 1483, 152
+  size: 539, 234
+  orig: 557, 247
+  offset: 10, 2
+  index: -1

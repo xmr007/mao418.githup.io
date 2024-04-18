@@ -1,0 +1,48 @@
+
+qiuqian.png
+size: 2001,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 1672, 250
+  size: 327, 111
+  orig: 329, 114
+  offset: 1, 2
+  index: -1
+caocong
+  rotate: false
+  xy: 2, 2
+  size: 985, 836
+  orig: 988, 839
+  offset: 1, 2
+  index: -1
+hua
+  rotate: false
+  xy: 989, 148
+  size: 681, 690
+  orig: 684, 693
+  offset: 2, 1
+  index: -1
+mask
+  rotate: false
+  xy: 1672, 363
+  size: 290, 475
+  orig: 293, 477
+  offset: 1, 1
+  index: -1
+shengzihou
+  rotate: true
+  xy: 989, 45
+  size: 101, 398
+  orig: 101, 398
+  offset: 0, 0
+  index: -1
+shengziqian
+  rotate: true
+  xy: 1389, 57
+  size: 89, 398
+  orig: 89, 398
+  offset: 0, 0
+  index: -1

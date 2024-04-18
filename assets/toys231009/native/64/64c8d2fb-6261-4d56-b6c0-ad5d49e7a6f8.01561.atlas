@@ -1,0 +1,27 @@
+
+baojian2.png
+size: 867,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditai
+  rotate: true
+  xy: 516, 27
+  size: 531, 222
+  orig: 534, 224
+  offset: 1, 1
+  index: -1
+housha
+  rotate: true
+  xy: 2, 2
+  size: 556, 512
+  orig: 556, 512
+  offset: 0, 0
+  index: -1
+zuodian
+  rotate: true
+  xy: 740, 332
+  size: 226, 125
+  orig: 228, 127
+  offset: 1, 1
+  index: -1

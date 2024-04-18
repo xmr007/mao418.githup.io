@@ -1,0 +1,118 @@
+
+lvguanyaoshui.png
+size: 347,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongyaoshui
+  rotate: true
+  xy: 2, 5
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+huangyaoshui
+  rotate: true
+  xy: 27, 5
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+lazhu
+  rotate: false
+  xy: 2, 22
+  size: 106, 124
+  orig: 109, 127
+  offset: 1, 2
+  index: -1
+pingqian1
+  rotate: false
+  xy: 302, 86
+  size: 43, 60
+  orig: 45, 62
+  offset: 1, 1
+  index: -1
+pingqian2
+  rotate: true
+  xy: 238, 91
+  size: 55, 62
+  orig: 57, 64
+  offset: 1, 1
+  index: -1
+pingqian3
+  rotate: false
+  xy: 186, 6
+  size: 50, 63
+  orig: 52, 65
+  offset: 1, 1
+  index: -1
+pingsai1
+  rotate: true
+  xy: 291, 51
+  size: 33, 23
+  orig: 35, 25
+  offset: 1, 1
+  index: -1
+pingsai2
+  rotate: true
+  xy: 316, 51
+  size: 33, 23
+  orig: 35, 25
+  offset: 1, 1
+  index: -1
+pingsai3
+  rotate: true
+  xy: 319, 16
+  size: 33, 23
+  orig: 35, 25
+  offset: 1, 1
+  index: -1
+pingzi1
+  rotate: false
+  xy: 110, 70
+  size: 62, 76
+  orig: 64, 78
+  offset: 1, 1
+  index: -1
+pingzi2
+  rotate: true
+  xy: 110, 2
+  size: 66, 74
+  orig: 68, 76
+  offset: 1, 1
+  index: -1
+pingzi3
+  rotate: false
+  xy: 174, 71
+  size: 62, 75
+  orig: 64, 77
+  offset: 1, 1
+  index: -1
+yaoshui1
+  rotate: true
+  xy: 277, 6
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+yaoshui2
+  rotate: false
+  xy: 238, 51
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+yaoshui3
+  rotate: true
+  xy: 238, 4
+  size: 45, 37
+  orig: 48, 37
+  offset: 2, 0
+  index: -1
+ziyaoshui
+  rotate: true
+  xy: 52, 5
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1

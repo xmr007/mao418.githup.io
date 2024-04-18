@@ -1,0 +1,97 @@
+
+yuanyishu.png
+size: 2028,1826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushishu
+  rotate: false
+  xy: 694, 257
+  size: 674, 788
+  orig: 676, 794
+  offset: 1, 2
+  index: -1
+dimian
+  rotate: false
+  xy: 2, 9
+  size: 749, 243
+  orig: 754, 245
+  offset: 1, 1
+  index: -1
+shu1
+  rotate: false
+  xy: 1370, 397
+  size: 656, 775
+  orig: 658, 784
+  offset: 1, 1
+  index: -1
+shu2
+  rotate: true
+  xy: 756, 1174
+  size: 650, 786
+  orig: 656, 795
+  offset: 5, 2
+  index: -1
+shu3
+  rotate: false
+  xy: 2, 254
+  size: 690, 791
+  orig: 695, 795
+  offset: 2, 2
+  index: -1
+shuye1
+  rotate: false
+  xy: 813, 81
+  size: 45, 59
+  orig: 47, 61
+  offset: 1, 1
+  index: -1
+shuye2
+  rotate: false
+  xy: 753, 52
+  size: 58, 88
+  orig: 60, 91
+  offset: 1, 1
+  index: -1
+shuye3
+  rotate: true
+  xy: 753, 2
+  size: 48, 62
+  orig: 50, 64
+  offset: 1, 1
+  index: -1
+shuye4
+  rotate: false
+  xy: 817, 31
+  size: 43, 48
+  orig: 45, 51
+  offset: 1, 2
+  index: -1
+shuyingzi
+  rotate: false
+  xy: 753, 142
+  size: 502, 113
+  orig: 510, 119
+  offset: 4, 2
+  index: -1
+tizi
+  rotate: false
+  xy: 1370, 43
+  size: 333, 352
+  orig: 336, 354
+  offset: 2, 1
+  index: -1
+yanwu1
+  rotate: true
+  xy: 1544, 1360
+  size: 464, 480
+  orig: 466, 482
+  offset: 1, 1
+  index: -1
+yanwu2
+  rotate: true
+  xy: 2, 1047
+  size: 777, 752
+  orig: 781, 755
+  offset: 2, 1
+  index: -1

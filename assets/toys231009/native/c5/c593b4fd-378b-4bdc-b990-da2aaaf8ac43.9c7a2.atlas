@@ -1,0 +1,34 @@
+
+tangyi.png
+size: 415,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinliao1
+  rotate: false
+  xy: 2, 277
+  size: 107, 96
+  orig: 109, 98
+  offset: 1, 1
+  index: -1
+yinliao2
+  rotate: false
+  xy: 111, 273
+  size: 119, 100
+  orig: 121, 102
+  offset: 1, 1
+  index: -1
+yinliao3
+  rotate: true
+  xy: 232, 272
+  size: 101, 117
+  orig: 103, 119
+  offset: 1, 1
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2, 2
+  size: 411, 268
+  orig: 413, 270
+  offset: 1, 1
+  index: -1

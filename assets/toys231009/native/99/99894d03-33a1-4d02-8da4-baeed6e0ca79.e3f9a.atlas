@@ -1,0 +1,153 @@
+
+mojing.png
+size: 2007,1606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanguang2
+  rotate: false
+  xy: 2, 403
+  size: 477, 541
+  orig: 487, 557
+  offset: 9, 15
+  index: -1
+fanguang3
+  rotate: true
+  xy: 748, 2
+  size: 475, 522
+  orig: 487, 535
+  offset: 11, 12
+  index: -1
+fanguang4
+  rotate: false
+  xy: 1450, 462
+  size: 477, 541
+  orig: 487, 544
+  offset: 9, 2
+  index: -1
+jingkuang
+  rotate: true
+  xy: 2, 946
+  size: 658, 805
+  orig: 660, 807
+  offset: 1, 1
+  index: -1
+jingmian1
+  rotate: true
+  xy: 1272, 3
+  size: 457, 607
+  orig: 462, 609
+  offset: 1, 1
+  index: -1
+jingmian2
+  rotate: false
+  xy: 809, 965
+  size: 484, 639
+  orig: 486, 641
+  offset: 1, 1
+  index: -1
+jingmian3
+  rotate: true
+  xy: 809, 479
+  size: 484, 639
+  orig: 486, 641
+  offset: 1, 1
+  index: -1
+jingmian4
+  rotate: true
+  xy: 1295, 1120
+  size: 484, 621
+  orig: 486, 623
+  offset: 1, 1
+  index: -1
+piaofu1
+  rotate: true
+  xy: 1295, 1005
+  size: 113, 116
+  orig: 128, 131
+  offset: 7, 8
+  index: -1
+piaofu2
+  rotate: true
+  xy: 1413, 1005
+  size: 113, 116
+  orig: 128, 131
+  offset: 8, 8
+  index: -1
+tianshen2
+  rotate: true
+  xy: 2, 32
+  size: 369, 456
+  orig: 374, 474
+  offset: 1, 4
+  index: -1
+tianshen3
+  rotate: false
+  xy: 481, 488
+  size: 265, 456
+  orig: 270, 474
+  offset: 1, 4
+  index: -1
+tianshen3-1
+  rotate: false
+  xy: 1755, 1018
+  size: 107, 100
+  orig: 110, 103
+  offset: 1, 1
+  index: -1
+tianshen3-2
+  rotate: true
+  xy: 1881, 256
+  size: 103, 90
+  orig: 109, 92
+  offset: 2, 1
+  index: -1
+tianshen3-3
+  rotate: true
+  xy: 1643, 1014
+  size: 104, 110
+  orig: 109, 122
+  offset: 1, 11
+  index: -1
+tianshen3-4
+  rotate: true
+  xy: 1531, 1011
+  size: 107, 110
+  orig: 109, 122
+  offset: 1, 11
+  index: -1
+tianshen4
+  rotate: false
+  xy: 481, 30
+  size: 265, 456
+  orig: 273, 474
+  offset: 1, 4
+  index: -1
+tianshen4-1
+  rotate: true
+  xy: 1864, 1025
+  size: 93, 99
+  orig: 98, 101
+  offset: 1, 1
+  index: -1
+tianshen4-2
+  rotate: false
+  xy: 1881, 361
+  size: 93, 99
+  orig: 98, 101
+  offset: 1, 1
+  index: -1
+tianshen4-3
+  rotate: true
+  xy: 1881, 78
+  size: 176, 64
+  orig: 181, 66
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 1918, 1182
+  size: 422, 87
+  orig: 424, 89
+  offset: 1, 1
+  index: -1

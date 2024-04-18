@@ -1,0 +1,83 @@
+
+yigui.png
+size: 1785,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 714, 322
+  size: 612, 457
+  orig: 614, 459
+  offset: 1, 1
+  index: -1
+dimian
+  rotate: true
+  xy: 1275, 2
+  size: 175, 354
+  orig: 177, 356
+  offset: 1, 1
+  index: -1
+guanmen
+  rotate: true
+  xy: 2, 17
+  size: 245, 362
+  orig: 245, 362
+  offset: 0, 0
+  index: -1
+menfeng1
+  rotate: false
+  xy: 1662, 47
+  size: 74, 358
+  orig: 77, 365
+  offset: 1, 1
+  index: -1
+menkai
+  rotate: false
+  xy: 1662, 407
+  size: 121, 372
+  orig: 123, 375
+  offset: 1, 1
+  index: -1
+shanliang
+  rotate: false
+  xy: 714, 2
+  size: 409, 318
+  orig: 434, 321
+  offset: 2, 1
+  index: -1
+tengwan1
+  rotate: true
+  xy: 1328, 179
+  size: 600, 332
+  orig: 603, 334
+  offset: 1, 1
+  index: -1
+yifu1
+  rotate: true
+  xy: 366, 54
+  size: 208, 272
+  orig: 208, 272
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 1125, 45
+  size: 148, 275
+  orig: 163, 278
+  offset: 14, 2
+  index: -1
+yigan
+  rotate: true
+  xy: 640, 100
+  size: 162, 26
+  orig: 165, 28
+  offset: 1, 1
+  index: -1
+yigui
+  rotate: true
+  xy: 2, 264
+  size: 515, 710
+  orig: 518, 713
+  offset: 2, 2
+  index: -1

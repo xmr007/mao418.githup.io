@@ -1,0 +1,41 @@
+
+huabao.png
+size: 1920,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+70002_1
+  rotate: false
+  xy: 2, 2
+  size: 613, 584
+  orig: 613, 584
+  offset: 0, 0
+  index: -1
+70002_2
+  rotate: false
+  xy: 617, 2
+  size: 613, 584
+  orig: 613, 584
+  offset: 0, 0
+  index: -1
+70002_3
+  rotate: false
+  xy: 1232, 2
+  size: 613, 584
+  orig: 613, 584
+  offset: 0, 0
+  index: -1
+yinying1
+  rotate: true
+  xy: 1847, 137
+  size: 200, 71
+  orig: 613, 584
+  offset: 232, 41
+  index: -1
+yinying2
+  rotate: true
+  xy: 1847, 339
+  size: 247, 71
+  orig: 613, 584
+  offset: 204, 41
+  index: -1

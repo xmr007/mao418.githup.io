@@ -1,0 +1,41 @@
+
+yu3.png
+size: 408,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu3-1
+  rotate: false
+  xy: 2, 46
+  size: 252, 157
+  orig: 252, 157
+  offset: 0, 0
+  index: -1
+yu3-2
+  rotate: false
+  xy: 256, 48
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+yu3-3
+  rotate: true
+  xy: 2, 2
+  size: 42, 201
+  orig: 42, 201
+  offset: 0, 0
+  index: -1
+yu3-4
+  rotate: true
+  xy: 205, 2
+  size: 42, 201
+  orig: 42, 201
+  offset: 0, 0
+  index: -1
+yu3-5
+  rotate: false
+  xy: 324, 48
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+yu6.png
+size: 379,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu6
+  rotate: false
+  xy: 2, 2
+  size: 375, 540
+  orig: 375, 540
+  offset: 0, 0
+  index: -1

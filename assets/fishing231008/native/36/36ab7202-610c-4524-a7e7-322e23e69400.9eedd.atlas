@@ -1,0 +1,27 @@
+
+yu5.png
+size: 563,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu5-1
+  rotate: false
+  xy: 380, 6
+  size: 181, 143
+  orig: 183, 145
+  offset: 1, 1
+  index: -1
+yu5-2
+  rotate: false
+  xy: 194, 2
+  size: 184, 147
+  orig: 186, 150
+  offset: 1, 2
+  index: -1
+yu5-3
+  rotate: false
+  xy: 2, 2
+  size: 190, 147
+  orig: 192, 149
+  offset: 1, 1
+  index: -1
